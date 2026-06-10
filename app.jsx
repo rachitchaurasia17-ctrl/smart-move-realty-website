@@ -90,7 +90,7 @@ function Nav({ onContact }) {
             <Crown dark={onDark} />
             <div style={{ lineHeight: 1.05 }}>
               <div className="clash" style={{ fontSize: 20, letterSpacing: "-0.03em", color: navInk, transition: "color 250ms ease" }}>
-                Smart Move Realty <span style={{ fontFamily: "Gambarino, Georgia, serif", fontStyle: "italic", fontWeight: 400, letterSpacing: "-0.02em" }}>Realty</span>
+                Smart Move
               </div>
               <div className="uc" style={{ fontSize: 10, color: navMute, letterSpacing: "0.16em", transition: "color 250ms ease" }}>Real Estate Agency · Mohali</div>
             </div>
@@ -434,7 +434,7 @@ function Manifesto() {
           We do not sell <em>square feet</em>. We place <em>capital</em> where the city is going — quietly, between long-standing buyers and sellers, on titles that arrive at the closing table already clean.
         </blockquote>
         <div className="manifesto-credit">
-          <span className="manifesto-sig">— Smart Move Realty</span>
+          <span className="manifesto-sig">— Smart Move</span>
           <span className="manifesto-role">Real Estate Agency · Mohali</span>
         </div>
         <div className="manifesto-grid">
@@ -1015,7 +1015,7 @@ function Principal() {
           </div>
           <div className="principal-right">
             <div className="manifesto-eyebrow" style={{ marginBottom: 0 }}>Our Expertise · Mohali Tri-City</div>
-            <h2 className="principal-name">Smart Move Realty <em>Realty</em></h2>
+            <h2 className="principal-name">Smart Move</h2>
             <p className="principal-bio">
               Dedicated to placing quality property in the Mohali tri-city. We specialize in residential, commercial and land mandates — known for thorough consultancy and transparent guidance from discovery to closing.
             </p>
@@ -1187,7 +1187,7 @@ function About() {
 
           <div style={{ border: "1px solid var(--line)", borderRadius: 6, padding: "20px 22px", background: "var(--paper)", display: "flex", alignItems: "center", justifyContent: "space-between", gap: 14 }}>
             <div>
-              <div className="clash" style={{ fontSize: 19, letterSpacing: "-0.02em", fontWeight: 600, lineHeight: 1.1 }}>Smart Move Realty</div>
+              <div className="clash" style={{ fontSize: 19, letterSpacing: "-0.02em", fontWeight: 600, lineHeight: 1.1 }}>Smart Move</div>
               <div className="uc" style={{ fontSize: 10, color: "var(--mute)", letterSpacing: "0.16em", marginTop: 6 }}>Real Estate Agency · Mohali</div>
             </div>
             <svg width="74" height="40" viewBox="0 0 120 60" fill="none" aria-hidden="true">
@@ -1283,7 +1283,7 @@ function FooterMast() {
   return (
     <footer className="foot">
       <div className="container">
-        <h2 className="foot-mast">Smart Move Realty <em>Realty</em></h2>
+        <h2 className="foot-mast">Smart Move</h2>
         <div className="foot-cols">
           <div>
             <div className="foot-h">The Desk</div>
@@ -1371,7 +1371,7 @@ function Footer() {
           <div>
             <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
               <Crown dark />
-              <div className="clash" style={{ color: "#f6f6f6", fontSize: 20, letterSpacing: "-0.03em" }}>Smart Move Realty</div>
+              <div className="clash" style={{ color: "#f6f6f6", fontSize: 20, letterSpacing: "-0.03em" }}>Smart Move</div>
             </div>
             <p style={{ marginTop: 20, fontSize: 14, lineHeight: 1.65, maxWidth: 300 }}>
               Real estate agency & property experts in the Mohali tri-city. GMADA/RERA accredited. SCO 1, 2nd Floor, Sector 79, SAS Nagar, Punjab 140308.

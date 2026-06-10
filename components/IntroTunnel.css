@@ -170,7 +170,7 @@
   padding: 0 20px;
 }
 
-/* Mobile — guarantee "Smart Move Realty" + lockup fits one frame at any width */
+/* Mobile — guarantee "Smart Move" + lockup fits one frame at any width */
 @media (max-width: 768px) {
   .intro-logo {
     font-size: clamp(28px, 11vw, 72px);

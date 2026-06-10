@@ -118,7 +118,7 @@ function IntroTunnel({ onDone }) {
 
       {/* Brand lockup — hidden during flight, revealed on the white screen */}
       <div className="intro-center">
-        <div className="intro-logo"><span>Smart Move Realty</span><span>REALTY</span></div>
+        <div className="intro-logo"><span>Smart Move</span><span>REALTY</span></div>
         <div className="intro-rule" />
         <div className="intro-sub">Real Estate Agency · Mohali</div>
       </div>
